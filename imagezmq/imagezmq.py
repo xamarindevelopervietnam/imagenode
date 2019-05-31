@@ -8,7 +8,6 @@ processing. See API and Usage Examples for details.
 
 import zmq
 import numpy as np
-import cv2
 
 class ImageSender():
     """Opens zmq REQ socket and sends images.
